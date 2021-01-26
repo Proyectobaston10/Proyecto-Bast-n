@@ -1,7 +1,7 @@
 # Proyecto-Bastón
 Proyecto Bastón por alumnos del 5B
 
-PROYECTO BASTÓN
+#PROYECTO BASTÓN
 
 **Descripción General:**
 
