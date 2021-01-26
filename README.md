@@ -59,7 +59,7 @@ Bridarle una mejor calidad de vida al invidente, en el cual le ayude a poder agi
 
 3.- Velocidad: Este punto es primordial para el proyecto ya que refleja el tiempo en el cual se debe visualizar la información en los campos asignados que se encuentran en la base de datos.
 
-4.- Veracidad: En este caso nuestros sensores al enviar datos primero pasan por una validación para comprobar que sea correcto el dato que se requiere enviar  la base de datos.
+4.- Veracidad: En este caso nuestros sensores al enviar datos primero pasan por una validación para comprobar que sea correcto el dato que se requiere enviar  en la base de datos.
 
 5.- Valor: los datos en este caso son del sensor ultrasónico y sensor de obstáculos, al enviar la información a la base de datos aportan un valor para saber la proximidad de un obstáculo que cada invidente posee.
 
