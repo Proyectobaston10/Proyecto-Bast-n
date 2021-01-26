@@ -66,4 +66,4 @@ Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de po
 **Diagrama ETL:**
 
 ![etc](https://user-images.githubusercontent.com/78035004/105899971-07ea2d80-5fe1-11eb-918c-f1840dcaa42d.png)
-
+Este proceso de transformación buscara tomar datos de la Base de Datos en el cual se gráficara conforme la relacion que existe, poder garantizar que funcione adecuadamente el dispositivo de invidente, 
